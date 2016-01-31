@@ -14,42 +14,42 @@ body{
     /*overflow:hidden;*/
 }
 /*加载页*/
-.preloader{
-    width:100%;
-    height:100%;
-    position:fixed;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    margin:auto;
-    z-index: 9999;
-    background: #fff;
-}
-.sk-spinner{
-    width:30px;
-    height:30px;
-    background: #3366cc;
-    border-radius: 50%;
-    position:fixed;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    margin:auto;
-    z-index:10000;
-    animation: xuanzhuan 1s linear infinite;
-}
-.sk-inner-circle{
-    width:5px;
-    height:5px;
-    border-radius: 50%;
-    position: absolute;
-    top: 8px;
-    left: 8px;
-    background: #fff;
-    display: block;
-}
+/*.preloader{*/
+/*    width:100%;*/
+/*    height:100%;*/
+/*    position:fixed;*/
+/*    top:0;*/
+/*    left:0;*/
+/*    right:0;*/
+/*    bottom:0;*/
+/*    margin:auto;*/
+/*    z-index: 9999;*/
+/*    background: #fff;*/
+/*}*/
+/*.sk-spinner{*/
+/*    width:30px;*/
+/*    height:30px;*/
+/*    background: #3366cc;*/
+/*    border-radius: 50%;*/
+/*    position:fixed;*/
+/*    top:0;*/
+/*    left:0;*/
+/*    right:0;*/
+/*    bottom:0;*/
+/*    margin:auto;*/
+/*    z-index:10000;*/
+/*    animation: xuanzhuan 1s linear infinite;*/
+/*}*/
+/*.sk-inner-circle{*/
+/*    width:5px;*/
+/*    height:5px;*/
+/*    border-radius: 50%;*/
+/*    position: absolute;*/
+/*    top: 8px;*/
+/*    left: 8px;*/
+/*    background: #fff;*/
+/*    display: block;*/
+/*}*/
 @media screen and (min-width: 768px) {
     .sk-spinner{
         width:40px;
