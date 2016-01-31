@@ -1,8 +1,8 @@
 
 //加载页
-window.onload=function(){
-    $(".preloader").delay(500).fadeOut("slow");
-}
+// window.onload=function(){
+//     $(".preloader").delay(500).fadeOut("slow");
+// }
 
 
 $(function(){
