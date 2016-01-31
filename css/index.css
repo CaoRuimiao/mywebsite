@@ -50,16 +50,16 @@ body{
 /*    background: #fff;*/
 /*    display: block;*/
 /*}*/
-@media screen and (min-width: 768px) {
-    .sk-spinner{
-        width:40px;
-        height:40px;
-    }
-    .sk-inner-circle{
-        width:6px;
-        height:6px;
-    }
-}
+/*@media screen and (min-width: 768px) {*/
+/*    .sk-spinner{*/
+/*        width:40px;*/
+/*        height:40px;*/
+/*    }*/
+/*    .sk-inner-circle{*/
+/*        width:6px;*/
+/*        height:6px;*/
+/*    }*/
+/*}*/
 .site-bg{
     width:100%;
     height:100%;
