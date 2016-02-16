@@ -881,6 +881,7 @@ h2.subtitle{
     background: #dd9f4e;
     color: white;
     border:1px solid #dd9f4e;
+    cursor:pointer;
 }
 .contact-pic{
     overflow: hidden;
